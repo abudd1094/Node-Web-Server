@@ -1,3 +1,5 @@
+// ** BASIC SERVER **
+
 var http = require('http'); // grabs the http module from the core
 var fs = require('fs'); // use the file module in Node to output the contents of the index.htm file to the http response
 
